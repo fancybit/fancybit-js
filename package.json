@@ -1,0 +1,16 @@
+{
+  "name": "fancyjs",
+  "version": "1.0.0",
+  "description": "fancybit‘s js extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "extension",
+    "fancybit"
+  ],
+  "author": "fancybit",
+  "license": "MIT"
+}
