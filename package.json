@@ -1,6 +1,6 @@
 {
-  "name": "fancyjs",
-  "version": "1.0.0",
+  "name": "fancybit-js",
+  "version": "1.0.1",
   "description": "fancybit‘s js extensions",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "extension",
     "fancybit"
   ],
+  "git repository":"https://github.com/fancybit/fancybit-js",
   "author": "fancybit",
   "license": "MIT"
 }
